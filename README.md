@@ -2,7 +2,7 @@
 - 👀 I’m interested in  compartilhar meu conhecimentos em Tecnologia.
 - 🌱 I’m currently learning  Machine Learning e AI.
 - 💞️ I’m looking to collaborate  em projetos com Microcontroladores e Códigos.
-- 📫 Me siga no Instagra: @dostojf
+- 📫 Me siga no Instagram  @dostojf
 
 <!---
 3DostoProjects/3DostoProjects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
