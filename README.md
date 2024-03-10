@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Dostoiewsky Carvalho, Engenheiro de Software, Programdor em C e Python. Técnico em Eletrônica.    
+- 👋 Hi, I’m Dostoiewsky Carvalho, Engenheiro de Software, Técnico em Eletrônica.    
 - 👀 I’m interested in  compartilhar meu conhecimentos em Tecnologia.
-- 🌱 I’m currently learning  Machine Learning e AI.
+- 🌱 I’m currently learning  Live is Life.
 - 💞️ I’m looking to collaborate  em projetos com Microcontroladores e Códigos.
 - 📫 Me siga no Instagram  @dostojf
 
