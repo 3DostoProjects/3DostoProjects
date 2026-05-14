@@ -27,3 +27,4 @@ Atualmente trabalhando em projetos de automação, IoT e desenvolvimento de soft
 ---
 
 *Última atualização: Maio de 2026*
+<!-- atualizado em 14/05/2026 -->
